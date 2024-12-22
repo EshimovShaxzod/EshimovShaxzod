@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EshimovShaxzod
-- 👀 I’m interested in ...
 
 
 <!---
